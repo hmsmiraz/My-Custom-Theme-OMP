@@ -6,7 +6,7 @@
       "segments": [
         {
           "style": "plain",
-          "template": "💻<#56B6C2>Hey HMSMIRAZ! What's next?✨</></>",
+          "template": "🤖<#56B6C2> Hey HMSMIRAZ! What's next❔ ...</#56B6C2>",
           "type": "text"
         }
       ],
@@ -25,13 +25,13 @@
           "type": "path"
         },
         {
-          "foreground": "#D0666F",
+          "foreground": "#56B6C2",
           "properties": {
             "branch_icon": "",
             "fetch_status": false
           },
           "style": "plain",
-          "template": "<#5FAAE8>git:(</>{{ .HEAD }}<#5FAAE8>)</>",
+          "template": "<#6D49FB>git:(</>{{ .HEAD }}<#6D49FB>)</>",
           "type": "git"
         },
         {
@@ -41,7 +41,7 @@
           "type": "text"
         },
         {
-          "foreground": "#1a415d",
+          "foreground": "#6D49FB",
           "properties": {
             "time_format": "15:04"
           },
@@ -56,9 +56,9 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#FF8000",
+          "foreground": "#6D49FB",
           "style": "plain",
-          "template": "<#56B6C2>➖ </>",
+          "template": "💻<#56B6C2>➖ </#56B6C2>",
           "type": "text"
         }
       ],
