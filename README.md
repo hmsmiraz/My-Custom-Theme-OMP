@@ -129,4 +129,3 @@ You can further customize your theme by editing the `my-custom-theme.json` file.
 ---
 
 That's it! You now have your custom Oh My Posh theme up and running on your new PC.
-```
