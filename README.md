@@ -1,6 +1,3 @@
-Here is the complete `README.md` file code, with **all steps** inside the code block as you requested:
-
-```markdown
 # My Custom Oh My Posh Theme Setup
 
 This guide will help you set up the **My-Custom-Theme-OMP** for Oh My Posh on a new PC. Follow the steps below to get started.
@@ -133,5 +130,3 @@ You can further customize your theme by editing the `my-custom-theme.json` file.
 
 That's it! You now have your custom Oh My Posh theme up and running on your new PC.
 ```
-
-Now all the steps are inside the code block. You can simply copy and paste this into your `README.md` file.
