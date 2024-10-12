@@ -6,7 +6,7 @@
       "segments": [
         {
           "style": "plain",
-          "template": "🤖<#56B6C2> Hey HMSMIRAZ! What's next❔ ...</#56B6C2>",
+          "template": "🤖<#56B6C2> Hey HMS MIRAZ! What's next❔...</#56B6C2>",
           "type": "text"
         }
       ],
@@ -35,7 +35,7 @@
           "type": "git"
         },
         {
-          "foreground": "#1a415d",
+          "foreground": "#168ee4",
           "style": "plain",
           "template": "⌚",
           "type": "text"
@@ -56,9 +56,9 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#6D49FB",
+          "foreground": "#6453a9",
           "style": "plain",
-          "template": "💻<#56B6C2>➖ </#56B6C2>",
+          "template": "\n💻<#29cff0>➖  </#29cff0>",
           "type": "text"
         }
       ],
